@@ -1,0 +1,22 @@
+.stories-grid {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 25px;
+    margin-top: 20px;
+}
+.story-img {
+    height: 260px;
+    background: #dcdcdc;
+    border-radius: 8px;
+}
+.story-item {
+    display: flex;
+    gap: 12px;
+    margin-bottom: 20px;
+}
+.story-thumb {
+    width: 70px;
+    height: 70px;
+    background: #dcdcdc;
+    border-radius: 8px;
+}

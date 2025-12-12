@@ -1,0 +1,23 @@
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    padding: 40px 0;
+}
+.footer-links h4 {
+    margin-bottom: 10px;
+}
+.footer-links a {
+    display: block;
+    text-decoration: none;
+    color: #444;
+    margin-bottom: 6px;
+}
+.icon {
+    width: 28px;
+    height: 28px;
+    background: #ccc;
+    border-radius: 5px;
+    display: inline-block;
+    margin-right: 8px;
+}
