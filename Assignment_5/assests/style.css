@@ -6,12 +6,11 @@
 body {
     font-family: Arial, sans-serif;
     color: #222;
-    background: #fafafa;
+    background:white;
     line-height: 1.5;
 }
 .container {
-    width: 90%;
-    max-width: 1024px;
+    width: 100%;
     margin: 0 auto;  
 }
 
@@ -91,4 +90,10 @@ p {
         flex-direction: column;
         gap: 30px;
     }
+}
+.wrapper{
+    max-width: 800px;
+    margin: 0 auto;
+    background: white;
+    padding: 30px 5px;
 }
