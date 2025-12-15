@@ -92,7 +92,7 @@ p {
     }
 }
 .wrapper{
-    max-width: 800px;
+    max-width: 1024px;
     margin: 0 auto;
     background: white;
     padding: 30px 5px;
